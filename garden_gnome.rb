@@ -10,4 +10,4 @@ class GardenGnome
   
 end
 
-test_gnome5.hat_color
+# test_gnome5.hat_color
