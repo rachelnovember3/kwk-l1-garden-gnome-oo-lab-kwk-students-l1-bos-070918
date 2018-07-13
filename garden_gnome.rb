@@ -12,6 +12,12 @@ class GardenGnome
     return "Gnawing on a tree!!!"
   end
   
+  def shout
+    return "GNARLY!!!"
+  end
+    
+    
+    
 end
 
 # test_gnome5.hat_color
