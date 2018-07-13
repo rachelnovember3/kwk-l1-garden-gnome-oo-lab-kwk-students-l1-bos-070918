@@ -22,3 +22,4 @@ class GardenGnome
 end
 
 gnome1 = Gnome.new
+name.new = "Walter the Worst"
