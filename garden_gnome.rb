@@ -8,6 +8,10 @@ class GardenGnome
     @hat_color = hat_color
   end
   
+  def gnaw
+    return "Gnawing on a tree"
+  end
+  
 end
 
 # test_gnome5.hat_color
