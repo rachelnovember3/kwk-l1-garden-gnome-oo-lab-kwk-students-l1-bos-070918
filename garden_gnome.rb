@@ -21,3 +21,4 @@ class GardenGnome
   end
 end
 
+gnome1 = Gnome.new
